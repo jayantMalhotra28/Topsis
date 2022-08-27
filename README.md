@@ -10,11 +10,11 @@ TOPSIS allow trade-offs between criteria, where a poor result in one criterion c
 
 # How to Run the Code
 
-Call the function topsis which has 3 parameter: topsis("file name where data is stored", "weight of parameter 1, weight of parameter 2,..,..,weight of parameter n", "+/- for parameter 1 ,+/- for parameter 2,+/- for parameter n")
+1) Call the function topsis which has 3 parameter: topsis("file name where data is stored", "weight of parameter 1, weight of parameter 2,..,..,weight of   parameter n", "+/- for parameter 1 ,+/- for parameter 2,+/- for parameter n")
 
-Sum of weights should be one 
+2) Sum of weights should be one 
 
-Choose '+' if parameter affects positively to ranking and choose '-' if paramter affects negatively to ranking
+3) Choose '+' if parameter affects positively to ranking and choose '-' if paramter affects negatively to ranking
 
 # Output Data
 
