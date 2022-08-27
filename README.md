@@ -16,6 +16,6 @@ Choose '+' if parameter affects positively to ranking and choose '-' if paramter
 
 # Output Data
 
-<img width="321" alt="Screen Shot 2022-08-27 at 3 09 50 AM" src="https://user-images.githubusercontent.com/47549494/187021415-72f6d68e-ea34-4c91-9fd7-b659feab4a59.png">
+<img width="330" alt="Screen Shot 2022-08-27 at 3 13 21 AM" src="https://user-images.githubusercontent.com/47549494/187021550-02ce6b32-4865-48b1-8ff6-008d1631048a.png">
 
 
